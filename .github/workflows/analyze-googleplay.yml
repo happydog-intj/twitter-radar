@@ -1,0 +1,95 @@
+name: Google Play Analysis
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Run daily at 3:00 AM UTC (1 hour after App Store)
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Required for committing reports
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build TypeScript
+        run: pnpm build
+
+      - name: Run Google Play analysis
+        env:
+          QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
+        run: pnpm analyze:googleplay
+
+      - name: Commit and push reports
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add reports/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update Google Play analysis $(date +'%Y-%m-%d')"
+            git push
+          fi
+
+      - name: Send Telegram notification
+        if: success()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          # Extract analysis results from the report
+          TODAY=$(date +'%Y-%m')
+          REPORT_FILE="reports/${TODAY}/$(date +'%Y-%m-%d')-googleplay-en.md"
+
+          if [ -f "$REPORT_FILE" ]; then
+            # Extract key metrics
+            TOTAL_REVIEWS=$(grep "Reviews Analyzed" "$REPORT_FILE" | grep -oE '[0-9]+' | head -1)
+            RATING_5=$(grep "⭐⭐⭐⭐⭐ (5):" "$REPORT_FILE" | grep -oE '[0-9]+' | head -1)
+            RATING_1=$(grep "⭐ (1):" "$REPORT_FILE" | grep -oE '[0-9]+' | head -1)
+            POSITIVE=$(grep "😊 Positive:" "$REPORT_FILE" | grep -oE '[0-9]+' | head -1)
+            NEUTRAL=$(grep "😐 Neutral:" "$REPORT_FILE" | grep -oE '[0-9]+' | head -1)
+            NEGATIVE=$(grep "😞 Negative:" "$REPORT_FILE" | grep -oE '[0-9]+' | head -1)
+            DEV_REPLIES=$(grep "Developer Replies:" "$REPORT_FILE" | grep -oE '[0-9]+' | head -1)
+
+            MESSAGE="🤖 <b>SHEIN Google Play Analysis</b>%0A%0A"
+            MESSAGE="${MESSAGE}📅 Date: $(date +'%Y-%m-%d')%0A%0A"
+            MESSAGE="${MESSAGE}📊 <b>Reviews Summary:</b>%0A"
+            MESSAGE="${MESSAGE}• Total Analyzed: ${TOTAL_REVIEWS}%0A"
+            MESSAGE="${MESSAGE}• 5-Star: ${RATING_5}%0A"
+            MESSAGE="${MESSAGE}• 1-Star: ${RATING_1}%0A"
+            MESSAGE="${MESSAGE}• Developer Replies: ${DEV_REPLIES}%0A%0A"
+            MESSAGE="${MESSAGE}😊 <b>Sentiment:</b>%0A"
+            MESSAGE="${MESSAGE}• Positive: ${POSITIVE}%0A"
+            MESSAGE="${MESSAGE}• Neutral: ${NEUTRAL}%0A"
+            MESSAGE="${MESSAGE}• Negative: ${NEGATIVE}%0A%0A"
+            MESSAGE="${MESSAGE}🔗 <a href='https://${{ github.repository_owner }}.github.io/twitter-radar/'>View Reports</a>"
+          else
+            MESSAGE="✅ <b>Google Play Analysis completed</b>%0A%0A"
+            MESSAGE="${MESSAGE}📅 Date: $(date +'%Y-%m-%d')%0A"
+            MESSAGE="${MESSAGE}🔗 <a href='https://${{ github.repository_owner }}.github.io/twitter-radar/'>View Report</a>"
+          fi
+
+          curl -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d "chat_id=${TELEGRAM_CHAT_ID}" \
+            -d "text=${MESSAGE}" \
+            -d "parse_mode=HTML" \
+            -d "disable_web_page_preview=true"

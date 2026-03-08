@@ -133,6 +133,74 @@ export interface AppStoreDigest {
   language: 'en' | 'zh';
 }
 
+// Google Play types
+export interface GooglePlayReview {
+  id: string;
+  userName: string;
+  userImage: string;
+  rating: number; // 1-5
+  text: string;
+  date: Date;
+  version: string;
+  thumbsUp: number;
+  replyDate?: Date;
+  replyText?: string;
+  region: string;
+  regionCode: string;
+  language: string;
+}
+
+export interface AnalyzedGooglePlayReview extends GooglePlayReview {
+  sentiment: SentimentAnalysis;
+  topics: string[];
+  analyzedAt: string;
+}
+
+export interface GooglePlayRegion {
+  code: string; // us, gb, cn, etc.
+  name: string;
+  language: string;
+}
+
+export interface GooglePlayConfig {
+  appId: string;
+  regions: GooglePlayRegion[];
+  reviewsPerRegion: number;
+}
+
+export interface GooglePlayDigest {
+  date: string;
+  appInfo: {
+    name: string;
+    averageRating: number;
+    totalRatings: number;
+    totalReviews: number;
+    installs: string;
+    currentVersion: string;
+  };
+  summary: {
+    totalReviews: number;
+    ratingBreakdown: {
+      5: number;
+      4: number;
+      3: number;
+      2: number;
+      1: number;
+    };
+    sentimentBreakdown: {
+      positive: number;
+      negative: number;
+      neutral: number;
+    };
+    topTopics: Array<{ topic: string; count: number }>;
+    developerReplies: number;
+  };
+  reviewsByRegion: {
+    [region: string]: AnalyzedGooglePlayReview[];
+  };
+  language: 'en' | 'zh';
+}
+
 export interface Config {
   twitter: {
     accounts: TwitterAccount[];
@@ -140,6 +208,7 @@ export interface Config {
     sinceDays: number;
   };
   appStore?: AppStoreConfig;
+  googlePlay?: GooglePlayConfig;
   qwen: {
     model: string;
     apiKey: string;

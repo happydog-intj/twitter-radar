@@ -9,7 +9,6 @@
     "dev": "tsx src/index.ts",
     "start": "node dist/index.js",
     "analyze": "tsx src/index.ts",
-    "demo": "tsx src/index-demo.ts",
     "generate:rss": "node -e \"const { generateRSSFeed } = require('./dist/generators/rss.js'); generateRSSFeed();\"",
     "test": "vitest",
     "lint": "eslint src/**/*.ts",

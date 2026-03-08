@@ -9,10 +9,11 @@
 
 ### 数据采集
 - 📱 **Twitter API v2** - 获取指定账号的最新推文
-- 🍎 **App Store Reviews** - 抓取 SHEIN app 多地区用户评论
+- 🍎 **App Store Reviews** - 抓取 SHEIN app iOS 用户评论（美国、英国、加拿大、澳大利亚）
+- 🤖 **Google Play Reviews** - 抓取 SHEIN app Android 用户评论（美国、英国、印度、巴西、墨西哥）
 - ⏰ **定时采集** - 每天自动运行
 - 🎯 **灵活配置** - 支持监控多个账号和地区
-- 📊 **丰富数据** - 包含点赞、转发、回复、评分等互动数据
+- 📊 **丰富数据** - 包含点赞、转发、回复、评分、开发者回复等互动数据
 
 ### AI 智能分析
 - 🧠 **Qwen 情感分析** - 使用阿里云通义千问分析推文和评论情感
@@ -23,9 +24,9 @@
 
 ### 报告生成
 - 📝 **双语报告** - 支持中英文报告
-- 📊 **数据统计** - Twitter: 总览、情感分布、相关性统计 | App Store: 评分分布、主题统计
-- 🎨 **分类展示** - Twitter: 按情感、账号、相关性分类 | App Store: 按地区、评分、情感分类
-- 🌍 **多地区对比** - App Store 评论支持美国、英国、加拿大、澳大利亚等地区对比
+- 📊 **数据统计** - Twitter: 总览、情感分布、相关性 | App Store/Google Play: 评分分布、主题统计、开发者回复率
+- 🎨 **分类展示** - Twitter: 按情感、账号、相关性 | App Store/Google Play: 按地区、评分、情感
+- 🌍 **多地区对比** - App Store (4地区) + Google Play (5地区) 全球市场覆盖
 - 📡 **RSS 订阅** - 自动生成 RSS feed
 
 ### 多渠道发布
@@ -41,19 +42,23 @@ twitter-radar/
 ├── .github/workflows/
 │   ├── analyze.yml               # Twitter 分析工作流
 │   ├── analyze-appstore.yml      # App Store 分析工作流
+│   ├── analyze-googleplay.yml    # Google Play 分析工作流
 │   └── pages.yml                 # GitHub Pages 部署
 ├── config/
 │   └── config.yml                # 配置文件（监控账号、关键词等）
 ├── src/
 │   ├── collectors/
 │   │   ├── twitter.ts            # Twitter API 集成
-│   │   └── app-store.ts          # App Store 评论抓取
+│   │   ├── app-store.ts          # App Store 评论抓取
+│   │   └── google-play.ts        # Google Play 评论抓取
 │   ├── analyzers/
 │   │   ├── qwen.ts               # Twitter Qwen AI 分析
-│   │   └── app-store.ts          # App Store Qwen AI 分析
+│   │   ├── app-store.ts          # App Store Qwen AI 分析
+│   │   └── google-play.ts        # Google Play Qwen AI 分析
 │   ├── generators/
 │   │   ├── markdown.ts           # Twitter Markdown 报告生成
 │   │   ├── app-store-markdown.ts # App Store Markdown 报告生成
+│   │   ├── google-play-markdown.ts # Google Play Markdown 报告生成
 │   │   └── rss.ts                # RSS feed 生成
 │   ├── notifiers/
 │   │   └── telegram.ts           # Telegram 通知

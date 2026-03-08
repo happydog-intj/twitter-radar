@@ -7,8 +7,8 @@ export function generateRSSFeed(): void {
   const feed = new RSS({
     title: 'Twitter Radar',
     description: 'Monitor Twitter accounts and analyze posts with AI',
-    feed_url: 'https://YOUR_USERNAME.github.io/twitter-radar/feed.xml',
-    site_url: 'https://YOUR_USERNAME.github.io/twitter-radar',
+    feed_url: 'https://happydog-intj.github.io/twitter-radar/feed.xml',
+    site_url: 'https://happydog-intj.github.io/twitter-radar',
     language: 'en',
     pubDate: new Date(),
   });
@@ -20,7 +20,7 @@ export function generateRSSFeed(): void {
     feed.item({
       title: `Twitter Radar - ${report.date}`,
       description: report.content.substring(0, 500) + '...',
-      url: `https://YOUR_USERNAME.github.io/twitter-radar/${report.date}.html`,
+      url: `https://happydog-intj.github.io/twitter-radar/${report.date}.html`,
       date: new Date(report.date),
     });
   }

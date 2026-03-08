@@ -9,6 +9,7 @@
     "dev": "tsx src/index.ts",
     "start": "node dist/index.js",
     "analyze": "tsx src/index.ts",
+    "demo": "tsx src/index-demo.ts",
     "generate:rss": "node -e \"const { generateRSSFeed } = require('./dist/generators/rss.js'); generateRSSFeed();\"",
     "test": "vitest",
     "lint": "eslint src/**/*.ts",
@@ -26,8 +27,6 @@
   "author": "TwitterRadar",
   "license": "MIT",
   "dependencies": {
-    "@alicloud/openapi-client": "^0.4.6",
-    "@alicloud/dashscope20230501": "^1.3.0",
     "axios": "^1.6.7",
     "date-fns": "^3.3.1",
     "dotenv": "^16.4.1",

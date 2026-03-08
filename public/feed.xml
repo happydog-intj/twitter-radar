@@ -1,36 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Twitter Radar]]></title>
-        <description><![CDATA[Monitor Twitter accounts and analyze posts with AI]]></description>
-        <link>https://happydog-intj.github.io/twitter-radar</link>
+        <title><![CDATA[Social Radar - SHEIN Brand Monitor]]></title>
+        <description><![CDATA[Monitor SHEIN brand across Twitter, App Store, and Google Play with AI]]></description>
+        <link>https://happydog-intj.github.io/social-radar</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 07:40:26 GMT</lastBuildDate>
-        <atom:link href="https://happydog-intj.github.io/twitter-radar/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 07:40:26 GMT</pubDate>
+        <lastBuildDate>Sun, 08 Mar 2026 09:12:47 GMT</lastBuildDate>
+        <atom:link href="https://happydog-intj.github.io/social-radar/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 08 Mar 2026 09:12:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Twitter Radar - 2026-03-08]]></title>
-            <description><![CDATA[# Twitter Radar - 2026-03-08
+            <title><![CDATA[Social Radar - 2026-03-08-googleplay]]></title>
+            <description><![CDATA[# SHEIN Google Play Reviews - 2026-03-08
+
+## 📱 App Information
+
+- **App**: SHEIN-Shopping Online
+- **Overall Rating**: 4.78/5.0
+- **Total Ratings**: 7,254,933
+- **Total Reviews**: 214,285
+- **Installs**: 500,000,000+
+- **Current Version**: 14.3.1
+
+## 📊 Analysis Summary
+
+- **Reviews Analyzed**: 100
+- **Developer Replies**: 0 (0.0%)
+- **Period**: Latest reviews from Google Play
+
+### ⭐ Rating Distribution
+
+- ⭐⭐⭐⭐⭐ (5): 72 (72.0%) ██████████████
+- ⭐⭐⭐⭐ (4): 10 (10.0%) ██
+- ⭐⭐⭐ (3): 8 (8.0%) ██
+- ⭐...]]></description>
+            <link>https://happydog-intj.github.io/social-radar/2026-03-08-googleplay.html</link>
+            <guid isPermaLink="true">https://happydog-intj.github.io/social-radar/2026-03-08-googleplay.html</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social Radar - 2026-03-08-appstore]]></title>
+            <description><![CDATA[# SHEIN App Store Reviews - 2026-03-08
+
+## 📱 App Information
+
+- **App**: SHEIN - Shopping Online
+- **Overall Rating**: 4.62/5.0
+- **Total Reviews**: 1,391,486
+- **Current Version**: 14.3.4
+
+## 📊 Analysis Summary
+
+- **Reviews Analyzed**: 200
+- **Period**: Latest reviews from App Store
+
+### ⭐ Rating Distribution
+
+- ⭐⭐⭐⭐⭐ (5): 146 (73.0%) ███████████████
+- ⭐⭐⭐⭐ (4): 13 (6.5%) █
+- ⭐⭐⭐ (3): 13 (6.5%) █
+- ⭐⭐ (2): 3 (1.5%) 
+- ⭐ (1): 25 (12.5%) ███
+
+### 😊 Sentiment Analysis
+
+- 😊 Positive: 159 (79.5%...]]></description>
+            <link>https://happydog-intj.github.io/social-radar/2026-03-08-appstore.html</link>
+            <guid isPermaLink="true">https://happydog-intj.github.io/social-radar/2026-03-08-appstore.html</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social Radar - 2026-03-08]]></title>
+            <description><![CDATA[# Social Radar - Twitter Analysis - 2026-03-08
 
 ## 📊 Summary
 
 - **Total Tweets**: 100
-- **SHEIN Related**: 37 (37.0%)
+- **SHEIN Related**: 38 (38.0%)
 
 ### Sentiment Breakdown
-- 😊 Positive: 74 (74.0%)
-- 😐 Neutral: 26 (26.0%)
+- 😊 Positive: 73 (73.0%)
+- 😐 Neutral: 27 (27.0%)
 - 😞 Negative: 0 (0.0%)
 
 ## 🎯 SHEIN Related Tweets
 
-### 😊 Positive (29)
+### 😊 Positive (30)
 
-#### 😊 [@shein_official](https://twitter.com/shein_official/status/2030485441577877916)
+#### 😊 [@shein_official](https://twitter.com/shein_official/status/2030562579580584408)
 
-> @saradiaa @SHEIN_AR @jtexpressme Hello, sorry for the inconvenience. One of our representatives will assist you as soon as we can! Pls have a look when you ...]]></description>
-            <link>https://happydog-intj.github.io/twitter-radar/2026-03-08.html</link>
-            <guid isPermaLink="true">https://happydog-intj.github.io/twitter-radar/2026-03-08.html</guid>
+> @Unbother3danon @SHEIN_AR Hello, sorry for the inconvenience. You may drop us a Direct Message, contact Customer Service in SHEIN app for ...]]></description>
+            <link>https://happydog-intj.github.io/social-radar/2026-03-08.html</link>
+            <guid isPermaLink="true">https://happydog-intj.github.io/social-radar/2026-03-08.html</guid>
             <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>

@@ -1,18 +1,29 @@
-# Twitter Radar - 2026-03-08
+# Social Radar - Twitter Analysis - 2026-03-08
 
 ## 📊 总览
 
 - **总推文数**: 100
-- **SHEIN相关**: 37 (37.0%)
+- **SHEIN相关**: 38 (38.0%)
 
 ### 情感分析
-- 😊 正面: 74 (74.0%)
-- 😐 中性: 26 (26.0%)
+- 😊 正面: 73 (73.0%)
+- 😐 中性: 27 (27.0%)
 - 😞 负面: 0 (0.0%)
 
 ## 🎯 SHEIN相关推文
 
-### 😊 正面评价 (29)
+### 😊 正面评价 (30)
+
+#### 😊 [@shein_official](https://twitter.com/shein_official/status/2030562579580584408)
+
+> @Unbother3danon @SHEIN_AR Hello, sorry for the inconvenience. You may drop us a Direct Message, contact Customer Service in SHEIN app for assistance. Please make sure to contact the SHEIN official social media accounts or through the SHEIN app. We'd be happy to assist you! 💗
+
+💙 0 | 🔁 0 | 💬 0
+
+**情感**: The tweet expresses empathy, offers helpful support channels, and conveys willingness to assist, reinforced by a positive emoji (💗), indicating a warm and customer-centric tone.
+**SHEIN相关性**: 推文直接提及@SHEIN_AR（SHEIN官方区域账号）和'SHEIN app'，并多次使用品牌名'SHEIN'，属于官方客服响应场景。
+**关键词**: @SHEIN_AR, SHEIN app, SHEIN
+**发布时间**: 2026/3/8 08:33:39
 
 #### 😊 [@shein_official](https://twitter.com/shein_official/status/2030485441577877916)
 
@@ -31,9 +42,9 @@
 
 💙 0 | 🔁 0 | 💬 0
 
-**情感**: 推文使用了友好、礼貌的措辞（如'مرحباً'、'نسعدنا مساعدتك'）和爱心表情符号，表达了真诚的歉意与积极的服务意愿，整体情感温暖且支持性强。
-**SHEIN相关性**: 推文直接包含阿拉伯语拼写的品牌名'شي إن'（SHEIN的官方阿拉伯语译名）及@shein_official的变体形式，并明确指向其官方App客服，属于品牌直接互动。
-**关键词**: شي إن, تطبيق شي إن
+**情感**: 推文使用友好礼貌的措辞（如'مرحباً'、'يسعدنا مساعدتك'）和爱心表情符号，表达真诚的歉意与积极协助意愿，整体情感温暖、支持性强。
+**SHEIN相关性**: 推文直接包含阿拉伯语客服回复，明确提及'شي إن'（SHEIN的阿拉伯语音译）及'SHEIN应用'，属于SHEIN官方或授权客服渠道的典型响应。
+**关键词**: شي إن, SHEIN应用
 **发布时间**: 2026/3/8 02:06:30
 
 #### 😊 [@shein_official](https://twitter.com/shein_official/status/2030464926305988699)
@@ -42,7 +53,7 @@
 
 💙 0 | 🔁 0 | 💬 0
 
-**情感**: 推文使用礼貌用语（'Hello', 'sorry for the inconvenience', 'We'd be happy to assist you!'）和爱心表情符号，传递出友好、积极、乐于助人的服务态度。
+**情感**: 推文使用礼貌用语（'Hello', 'sorry for the inconvenience', 'We'd be happy to assist you!'）和爱心表情符号，传达出积极、友善且乐于助人的服务态度。
 **SHEIN相关性**: 推文直接提及'SHEIN'并指向SHEIN官方客服渠道（SHEIN app），且使用官方品牌名称和客户服务语境，明确关联SHEIN品牌。
 **关键词**: SHEIN, SHEIN app
 **发布时间**: 2026/3/8 02:05:37
@@ -54,7 +65,7 @@
 💙 0 | 🔁 0 | 💬 1
 
 **情感**: 该推文语气礼貌、友善且乐于助人，使用了道歉、主动提供帮助和爱心表情符号，整体传递出积极、关怀的服务态度。
-**SHEIN相关性**: 推文直接提及'SHEIN'三次，并明确指向SHEIN官方社交媒体账号和SHEIN App，属于品牌官方客服响应。
+**SHEIN相关性**: 推文直接提及'SHEIN'多次，并明确指向SHEIN官方社交媒体账号和SHEIN App，属于品牌官方客服响应。
 **关键词**: SHEIN, @shein_official
 **发布时间**: 2026/3/8 01:57:21
 
@@ -64,9 +75,9 @@
 
 💙 0 | 🔁 0 | 💬 0
 
-**情感**: 推文语气礼貌、友善，主动提供帮助并表达服务意愿，使用爱心表情符号强化积极情感，整体传递出真诚、乐于助人的正面态度。
-**SHEIN相关性**: 推文直接提及'SHEIN'多次，并明确指向SHEIN官方社交媒体账号和SHEIN App，属于品牌官方客服响应场景。
-**关键词**: SHEIN, SHEIN app, SHEIN official social media accounts
+**情感**: 推文语气礼貌、友善，主动提供帮助并表达服务意愿，使用爱心表情符号强化积极情感，整体传递出真诚、关怀和专业客服形象。
+**SHEIN相关性**: 推文直接提及'SHEIN'多次，并明确指向SHEIN官方社交媒体账号和SHEIN App，属于品牌官方客服响应。
+**关键词**: SHEIN, @shein_official
 **发布时间**: 2026/3/8 01:54:28
 
 #### 😊 [@shein_official](https://twitter.com/shein_official/status/2030461870172500130)
@@ -75,9 +86,9 @@
 
 💙 0 | 🔁 1 | 💬 2
 
-**情感**: The tweet expresses empathy, offers helpful support channels, and conveys warmth and willingness to assist, reinforced by the heart emoji.
-**SHEIN相关性**: 推文直接提及'SHEIN'多次，并明确指向SHEIN官方社交媒体账号和SHEIN App，属于品牌官方客服响应。
-**关键词**: SHEIN, @shein_official
+**情感**: 推文语气礼貌、友善，主动提供帮助并表达服务意愿，使用爱心表情符号强化积极情感，整体传递出真诚、乐于助人的正面态度。
+**SHEIN相关性**: 推文直接提及'SHEIN'三次，并明确指向'SHEIN官方社交媒体账号'和'SHEIN应用'，属于品牌官方客服响应场景。
+**关键词**: SHEIN, SHEIN app, SHEIN official
 **发布时间**: 2026/3/8 01:53:28
 
 #### 😊 [@shein_official](https://twitter.com/shein_official/status/2030458137757798761)
@@ -86,8 +97,8 @@
 
 💙 0 | 🔁 0 | 💬 0
 
-**情感**: The tweet expresses empathy, offers helpful support channels, and conveys warmth and willingness to assist, reinforced by the heart emoji.
-**SHEIN相关性**: 推文直接提及'SHEIN'品牌名称，并明确指向SHEIN官方社交媒体账号和SHEIN App，属于品牌官方客服响应。
+**情感**: The tweet expresses empathy, offers helpful support options, and conveys warmth and willingness to assist, reinforced by the heart emoji.
+**SHEIN相关性**: 推文直接提及'SHEIN'三次，并明确指向SHEIN官方社交媒体账号和SHEIN App，属于品牌官方客服响应。
 **关键词**: SHEIN, @shein_official
 **发布时间**: 2026/3/8 01:38:38
 
@@ -108,21 +119,10 @@
 
 💙 0 | 🔁 0 | 💬 1
 
-**情感**: 推文使用友好礼貌的语气（如'مرحباً'、'يسعدنا مساعدتك!'）和爱心表情符号，表达真诚的歉意与积极协助意愿，整体情感温暖、支持性强。
-**SHEIN相关性**: 推文中明确使用了阿拉伯语拼写的品牌名'شي إن'（即SHEIN的官方阿拉伯语译名），并提及'SHEIN应用'和客户服务，属于SHEIN官方客服话术风格。
+**情感**: 推文使用了友好问候（مرحباً）、表达歉意（نأسف للإزعاج）、主动提供多渠道帮助，并以温暖表情符号（💗）和积极结语（يسعدنا مساعدتك!）传递真诚、乐于助人的正面情感。
+**SHEIN相关性**: 推文直接使用阿拉伯语提及'شي إن'（SHEIN的阿拉伯语官方译名）并引导用户通过SHEIN应用联系客服，明确指向SHEIN品牌官方服务。
 **关键词**: شي إن
 **发布时间**: 2026/3/7 08:10:34
-
-#### 😊 [@shein_official](https://twitter.com/shein_official/status/2030193660067992047)
-
-> @London_Aoki Hello, sorry for the inconvenience. You may drop us a Direct Message, contact Customer Service in SHEIN app for assistance. Please make sure to contact the SHEIN official social media accounts or through the SHEIN app. We'd be happy to assist you! 💗
-
-💙 1 | 🔁 0 | 💬 1
-
-**情感**: 推文语气礼貌、友善，主动提供帮助并表达乐意协助的意愿，使用爱心表情符号强化积极情感，整体呈现高度正面的服务态度。
-**SHEIN相关性**: 推文直接提及'SHEIN'多次，并明确指向'SHEIN official social media accounts'和'SHEIN app'，属于品牌官方客服响应。
-**关键词**: SHEIN, SHEIN app, SHEIN official
-**发布时间**: 2026/3/7 08:07:42
 
 ### 😐 中性评论 (8)
 
@@ -134,8 +134,8 @@
 
 💙 0 | 🔁 0 | 💬 0
 
-**情感**: 这是一条礼貌、中性的客服回复，旨在提供指引，不含明显情感倾向或 evaluative language。
-**SHEIN相关性**: 推文直接提到了两个SHEIN官方关联账号：@SheinIndia和@SHEINX_official，均属于SHEIN品牌在印度及拓展市场的官方子账号。
+**情感**: 这是一条礼貌、中性的客户服务回复，语气专业且无明显情感倾向，旨在提供指引而非表达情绪。
+**SHEIN相关性**: 推文直接提到了两个SHEIN官方相关账号：@SheinIndia 和 @SHEINX_official，均属于SHEIN品牌在印度及全球的官方或子品牌运营账号。
 **关键词**: @SheinIndia, @SHEINX_official
 **发布时间**: 2026/3/7 08:19:28
 
@@ -146,7 +146,7 @@
 💙 0 | 🔁 0 | 💬 0
 
 **情感**: 该推文为标准的客户服务指引，语气礼貌、中性，不含明显情感倾向或 evaluative language。
-**SHEIN相关性**: 推文直接提及@SheinIndia（SHEIN印度官方账号），属于SHEIN品牌官方矩阵，且语境涉及客户服务，与品牌运营强相关。
+**SHEIN相关性**: 推文直接提及@SheinIndia（SHEIN在印度的官方账号），属于SHEIN品牌关联的官方子账号，且内容涉及客户服务，与品牌运营强相关。
 **关键词**: @SheinIndia
 **发布时间**: 2026/3/7 07:38:00
 
@@ -157,7 +157,7 @@
 💙 0 | 🔁 0 | 💬 1
 
 **情感**: 推文仅包含多个用户名提及，无明显情感表达词汇或上下文，无法判断积极或消极倾向，整体为中性。
-**SHEIN相关性**: 推文中直接提到了多个SHEIN官方及地区相关账号（@SheinIndia、@shein、@SHEIN_News），均属于SHEIN品牌生态的认证或关联账号。
+**SHEIN相关性**: 推文中直接提到了多个SHEIN官方及地区性账号（@SheinIndia、@shein、@SHEIN_News），均属于SHEIN品牌相关认证账号。
 **关键词**: @SheinIndia, @shein, @SHEIN_News
 **发布时间**: 2026/3/6 08:23:00
 
@@ -189,9 +189,9 @@
 
 💙 0 | 🔁 0 | 💬 0
 
-**情感**: 推文为标准客服响应，语气礼貌、中立，无明显情感倾向，主要提供操作指引和注意事项。
+**情感**: 推文为标准客服响应，语气礼貌、专业，无明显积极或消极情绪表达，主要提供操作指引。
 **SHEIN相关性**: 推文直接提及'SHEIN'两次，并明确指向SHEIN官方应用和官方社交媒体账号，属于品牌客户服务场景。
-**关键词**: SHEIN, aplicativo SHEIN, contas oficiais de mídia social de SHEIN
+**关键词**: SHEIN, aplicativo SHEIN
 **发布时间**: 2026/3/6 02:01:11
 
 #### 😐 [@shein_official](https://twitter.com/shein_official/status/2029536083269296142)
@@ -202,7 +202,7 @@
 
 **情感**: 推文为标准客服响应，语气礼貌、专业，无明显积极或消极情绪表达，主要提供操作指引。
 **SHEIN相关性**: 推文直接提及'SHEIN'两次，并明确指向SHEIN官方应用和官方社交媒体账号，属于品牌客户服务场景。
-**关键词**: SHEIN, aplicativo SHEIN
+**关键词**: SHEIN, aplicativo SHEIN, contas oficiais de mídia social de SHEIN
 **发布时间**: 2026/3/5 12:34:43
 
 #### 😐 [@shein_official](https://twitter.com/shein_official/status/2029438024363520462)
@@ -212,13 +212,33 @@
 💙 0 | 🔁 0 | 💬 0
 
 **情感**: 该推文为标准的客户服务指引，语气礼貌、客观，不含明显情感倾向词汇，属于中性信息传达。
-**SHEIN相关性**: 推文直接提及@SheinIndia（SHEIN印度官方账号），属于SHEIN品牌官方矩阵，且语境为客服指引，明确关联品牌服务。
+**SHEIN相关性**: 推文直接提及@SheinIndia（SHEIN印度官方账号），属于SHEIN品牌官方社交媒体矩阵，且语境明确指向客户服务，与品牌运营强相关。
 **关键词**: @SheinIndia
 **发布时间**: 2026/3/5 06:05:04
 
 ## 📱 按账号分类
 
 ### @shein_official (50)
+
+#### 😊 [@shein_official](https://twitter.com/shein_official/status/2030562579580584408)
+
+> @Unbother3danon @SHEIN_AR Hello, sorry for the inconvenience. You may drop us a Direct Message, contact Customer Service in SHEIN app for assistance. Please make sure to contact the SHEIN official social media accounts or through the SHEIN app. We'd be happy to assist you! 💗
+
+💙 0 | 🔁 0 | 💬 0
+
+**情感**: The tweet expresses empathy, offers helpful support channels, and conveys willingness to assist, reinforced by a positive emoji (💗), indicating a warm and customer-centric tone.
+**SHEIN相关性**: 推文直接提及@SHEIN_AR（SHEIN官方区域账号）和'SHEIN app'，并多次使用品牌名'SHEIN'，属于官方客服响应场景。
+**关键词**: @SHEIN_AR, SHEIN app, SHEIN
+**发布时间**: 2026/3/8 08:33:39
+
+#### 😊 [@shein_official](https://twitter.com/shein_official/status/2030556743613534620)
+
+> @mdtabeebjahan Hello! Please send us a DM and we'd be glad to help you with it.
+
+💙 0 | 🔁 0 | 💬 0
+
+**情感**: 推文表达了友好、乐于助人的态度，使用了礼貌用语（'Hello!', 'Please', 'we'd be glad to help'），整体情感积极。
+**发布时间**: 2026/3/8 08:10:28
 
 #### 😊 [@shein_official](https://twitter.com/shein_official/status/2030485441577877916)
 
@@ -246,28 +266,8 @@
 
 💙 0 | 🔁 0 | 💬 0
 
-**情感**: The tweet conveys helpful, friendly, and supportive customer service guidance with polite language and proactive assistance cues.
+**情感**: The tweet conveys helpful, friendly, and supportive customer service guidance with polite language and proactive assistance options.
 **发布时间**: 2026/3/8 02:12:48
-
-#### 😊 [@shein_official](https://twitter.com/shein_official/status/2030465148788588699)
-
-> @Hynar8 مرحباً، نأسف للإزعاج. يمكنك مراسلتنا مباشرةً أو التواصل مع خدمة العملاء في تطبيق شي إن للحصول على المساعدة. يسعدنا مساعدتك! 💗
-
-💙 0 | 🔁 0 | 💬 0
-
-**情感**: 推文使用了友好、礼貌的措辞（如'مرحباً'、'نسعدنا مساعدتك'）和爱心表情符号，表达了真诚的歉意与积极的服务意愿，整体情感温暖且支持性强。
-**SHEIN相关性**: 推文直接包含阿拉伯语拼写的品牌名'شي إن'（SHEIN的官方阿拉伯语译名）及@shein_official的变体形式，并明确指向其官方App客服，属于品牌直接互动。
-**关键词**: شي إن, تطبيق شي إن
-**发布时间**: 2026/3/8 02:06:30
-
-#### 😊 [@shein_official](https://twitter.com/shein_official/status/2030465006580666559)
-
-> @cecemx_ Hello, after verification, we have not received your DM. To protect your privacy, could you please DM us with your info so that we can assist you to solve your problem as soon as possible? Thank you.💕
-
-💙 1 | 🔁 0 | 💬 0
-
-**情感**: The tweet conveys helpful, courteous, and empathetic customer service with warm language ('Thank you.💕') and a proactive offer to assist, resulting in a clearly positive sentiment.
-**发布时间**: 2026/3/8 02:05:56
 
 ### @ZARA (50)
 
@@ -277,7 +277,7 @@
 
 💙 0 | 🔁 0 | 💬 0
 
-**情感**: 推文表达了诚恳的歉意和主动提供帮助的意愿，语气礼貌、专业且富有同理心，整体情感积极。
+**情感**: 推文表达了礼貌的歉意和主动提供帮助的意愿，语气专业、友善，传递出积极的服务态度。
 **发布时间**: 2026/3/7 22:05:03
 
 #### 😊 [@ZARA](https://twitter.com/ZARA/status/2030352265421500815)
@@ -286,7 +286,7 @@
 
 💙 0 | 🔁 0 | 💬 0
 
-**情感**: 推文表达了真诚的歉意和积极的客户服务意愿，使用礼貌用语（'Hola', 'sentimos', 'Muchas gracias'）和主动协助承诺，传递出尊重、关怀与专业态度。
+**情感**: 推文表达了诚恳的歉意和积极的客户服务意愿，使用礼貌用语（'Hola', 'sentimos', 'Muchas gracias'）和主动协助承诺，整体情感倾向正面。
 **发布时间**: 2026/3/7 18:37:56
 
 #### 😊 [@ZARA](https://twitter.com/ZARA/status/2030327279499591923)
@@ -304,7 +304,7 @@
 
 💙 0 | 🔁 0 | 💬 1
 
-**情感**: 推文语气礼貌专业，传达了缺货信息和替代建议，无明显积极或消极情绪倾向，整体保持中性服务态度。
+**情感**: The tweet conveys polite, professional customer service information—apologizing for unavailability and offering an alternative—without strong positive or negative emotional language.
 **发布时间**: 2026/3/7 16:23:46
 
 #### 😐 [@ZARA](https://twitter.com/ZARA/status/2030300626643833223)
@@ -318,4 +318,4 @@
 
 ---
 
-由 Twitter Radar 生成 🔭
+由 Social Radar 生成 🔭

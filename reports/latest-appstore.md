@@ -4,35 +4,35 @@
 
 - **应用名称**: SHEIN - Shopping Online
 - **总体评分**: 4.62/5.0
-- **总评论数**: 1,399,565
+- **总评论数**: 1,391,486
 - **当前版本**: 14.3.4
 
 ## 📊 分析概览
 
-- **本次分析评论数**: 100
+- **本次分析评论数**: 200
 - **时间范围**: App Store 最新评论
 
 ### ⭐ 评分分布
 
-- ⭐⭐⭐⭐⭐ (5星): 70 (70.0%) ██████████████
-- ⭐⭐⭐⭐ (4星): 8 (8.0%) ██
-- ⭐⭐⭐ (3星): 9 (9.0%) ██
-- ⭐⭐ (2星): 2 (2.0%) 
-- ⭐ (1星): 11 (11.0%) ██
+- ⭐⭐⭐⭐⭐ (5星): 146 (73.0%) ███████████████
+- ⭐⭐⭐⭐ (4星): 13 (6.5%) █
+- ⭐⭐⭐ (3星): 13 (6.5%) █
+- ⭐⭐ (2星): 3 (1.5%) 
+- ⭐ (1星): 25 (12.5%) ███
 
 ### 😊 情感分析
 
-- 😊 正面: 78 (78.0%)
-- 😐 中性: 7 (7.0%)
-- 😞 负面: 15 (15.0%)
+- 😊 正面: 159 (79.5%)
+- 😐 中性: 9 (4.5%)
+- 😞 负面: 32 (16.0%)
 
 ### 🏷️ 热门话题
 
-1. **产品质量**: 46 次提及 (46.0%)
-2. **其他**: 33 次提及 (33.0%)
-3. **应用体验**: 25 次提及 (25.0%)
-4. **物流配送**: 24 次提及 (24.0%)
-5. **价格优惠**: 22 次提及 (22.0%)
+1. **产品质量**: 90 次提及 (45.0%)
+2. **其他**: 68 次提及 (34.0%)
+3. **价格优惠**: 50 次提及 (25.0%)
+4. **物流配送**: 47 次提及 (23.5%)
+5. **应用体验**: 43 次提及 (21.5%)
 
 ## 🌍 各地区评论
 
@@ -44,7 +44,7 @@
 
 > Muy bueno
 
-**用户**: Dianora22 | **版本**: 14.3.4 | **日期**: 2026-03-07
+**用户**: Dianora22 | **版本**: 14.3.4 | **日期**: 2026-03-06
 
 **AI 分析**: The review uses strongly positive Spanish words ('Excelente' and 'Muy bueno') indicating high satisfaction, though it lacks specific details about features or experiences.
 
@@ -54,9 +54,9 @@
 
 > Love shopping on SHEIN
 
-**用户**: Spice Lino | **版本**: 14.3.4 | **日期**: 2026-03-07
+**用户**: Spice Lino | **版本**: 14.3.4 | **日期**: 2026-03-06
 
-**AI 分析**: The review expresses strong enthusiasm with 'Love shopping on SHEIN' and is accompanied by a perfect 5/5 rating, indicating high satisfaction. Though brief, the language is unambiguously positive and conveys emotional approval.
+**AI 分析**: The review expresses strong enthusiasm with 'Love shopping on SHEIN' and is accompanied by a 5/5 rating, indicating high satisfaction. Though brief and lacking specific details, the language is unambiguously positive.
 
 **主题**: 其他
 
@@ -86,7 +86,7 @@
 
 **用户**: Solcarrillo/\ | **版本**: 14.3.4 | **日期**: 2026-03-06
 
-**AI 分析**: The review uses the word 'Perfecto' (Spanish for 'Perfect') and gives a 4/5 rating, indicating strong satisfaction despite the incomplete or ambiguous title ('Las cosas llegan en estado' — 'Things arrive in state', likely cut off or mistranslated, but not reflected negatively in the body or rating).
+**AI 分析**: The review uses the word 'Perfecto' (Spanish for 'Perfect') and gives a 4/5 rating, indicating strong satisfaction despite the incomplete or ambiguous title ('Las cosas llegan en estado' — 'Things arrive in state', likely cut off or mistranslated but not conveying negativity).
 
 **主题**: 物流配送
 
@@ -108,7 +108,7 @@
 
 **用户**: Randompeep223 | **版本**: 14.3.4 | **日期**: 2026-03-06
 
-**AI 分析**: The reviewer expresses strong dissatisfaction with multiple aspects: poor quality relative to high prices, slow delivery, and frequent order errors (e.g., wrong or missing items), culminating in the word 'terrible'. The 1/5 rating reinforces the highly negative sentiment.
+**AI 分析**: The reviewer expresses strong dissatisfaction with multiple aspects: poor quality relative to high prices, slow delivery, and frequent order errors — culminating in the word 'terrible' and a 1/5 rating.
 
 **主题**: 产品质量、价格优惠、物流配送、退换货
 
@@ -138,9 +138,9 @@
 
 **用户**: NoIDontWantOne! | **版本**: 14.3.4 | **日期**: 2026-03-06
 
-**AI 分析**: The reviewer strongly condemns the app as a 'phishing scam' and gives it the lowest possible rating (1/5), indicating extreme distrust and dissatisfaction.
+**AI 分析**: The reviewer labels the app an 'obvious phishing scam' and gives it a 1/5 rating, expressing strong distrust and alarm over being asked for credit card information before shopping.
 
-**主题**: 支付问题、security、应用体验
+**主题**: 支付问题、security、其他
 
 
 ### United Kingdom (50 条评论)
@@ -203,7 +203,7 @@
 
 > Not very satisfy with delivery amount
 
-**用户**: @@@@@@@;3: | **版本**: 14.3.4 | **日期**: 2026-03-06
+**用户**: @@@@@@@;3: | **版本**: 14.3.4 | **日期**: 2026-03-05
 
 **AI 分析**: The reviewer expresses dissatisfaction specifically with the delivery fee policy, stating they expect free delivery for orders over £10 and gives a low 1/5 rating.
 
@@ -215,7 +215,7 @@
 
 **用户**: ARJ4774 | **版本**: 14.3.4 | **日期**: 2026-03-05
 
-**AI 分析**: The reviewer expresses frustration with a critical bug in the app's cart functionality—where removing items does not update the total price, undermining trust and usability. Although the rating is 3/5 (neutral-mixed), the detailed complaint about broken core functionality indicates strong dissatisfaction.
+**AI 分析**: The reviewer expresses frustration with a critical bug in the app's cart functionality—specifically, the total price fails to update correctly when items are removed, undermining trust and usability. Although the rating is 3/5 (moderately dissatisfied), the issue described is severe for core shopping functionality, indicating strong negative sentiment.
 
 **主题**: 应用体验、支付问题
 
@@ -225,7 +225,7 @@
 
 **用户**: Salima arman | **版本**: 14.3.4 | **日期**: 2026-03-05
 
-**AI 分析**: The reviewer expresses strong disappointment due to unexpected price increases between adding an item to the bag and checkout, calling it 'very disappointing' and stating the app 'doesn’t have the worth any more', indicating a severe loss of trust and satisfaction.
+**AI 分析**: The reviewer expresses strong disappointment due to significant and unexpected price increases between adding an item to the bag and checkout, calling it 'very disappointing' and stating the app 'doesn’t have the worth any more'. The 1/5 rating reinforces intense dissatisfaction.
 
 **主题**: 价格优惠、应用体验
 
@@ -233,9 +233,9 @@
 
 > Prices change once at checkout very upsetting
 
-**用户**: U PEOPLE NEED A SOCIAL LIFE | **版本**: 14.3.2 | **日期**: 2026-03-05
+**用户**: U PEOPLE NEED A SOCIAL LIFE | **版本**: 14.3.2 | **日期**: 2026-03-04
 
-**AI 分析**: The reviewer expresses strong dissatisfaction due to unexpected price increases at checkout, calling it 'very upsetting' and giving a 1/5 rating.
+**AI 分析**: The reviewer expresses strong dissatisfaction due to unexpected price changes at checkout, calling it 'very upsetting' and giving a 1/5 rating.
 
 **主题**: 价格优惠
 
@@ -243,14 +243,228 @@
 
 > Way too many pop-ups and deals it gets too confusing
 
-**用户**: disco09 | **版本**: 14.3.2 | **日期**: 2026-03-05
+**用户**: disco09 | **版本**: 14.3.2 | **日期**: 2026-03-04
 
 **AI 分析**: The reviewer expresses frustration with excessive pop-ups and deals, describing the experience as 'too confusing', which indicates a poor user interface experience and dissatisfaction with app usability.
 
 **主题**: 应用体验
 
 
+### Canada (50 条评论)
+
+#### 😊 正面评价 (44)
+
+##### ⭐⭐⭐⭐⭐ Sheinlover
+
+> Amo SHEIN , me encanta por qué consigo muchos complementos sin salir de casa , muy buena calidad y buenos precios, envío gratis y súper rápido .
+
+**用户**: Luna1036 | **版本**: 14.3.4 | **日期**: 2026-03-06
+
+**AI 分析**: The reviewer expresses strong enthusiasm ('Amo SHEIN', 'me encanta') and praises multiple aspects: convenience of shopping from home, accessory variety, good quality, good prices, free shipping, and very fast delivery — all positive attributes with no criticism.
+
+**主题**: 物流配送、产品质量、价格优惠、应用体验
+
+##### ⭐⭐⭐ J’aime
+
+> J’aime puisque les pris son bas et qu’il me permet de faire des économies.
+
+**用户**: Caroline Larochelle | **版本**: 14.3.4 | **日期**: 2026-03-06
+
+**AI 分析**: The reviewer expresses affection ('J’aime' means 'I love it') and highlights two positive aspects: low prices and money savings, indicating overall satisfaction despite the modest 3/5 rating.
+
+**主题**: 价格优惠
+
+##### ⭐⭐⭐⭐⭐ I like it
+
+> I love it
+
+**用户**: lihimagojo1 | **版本**: 14.3.4 | **日期**: 2026-03-06
+
+**AI 分析**: The review expresses strong enthusiasm with 'I love it' and a perfect 5/5 rating, indicating unqualified satisfaction.
+
+**主题**: 其他
+
+##### ⭐⭐⭐⭐⭐ Great
+
+> Great
+
+**用户**: Wien rich | **版本**: 14.3.4 | **日期**: 2026-03-06
+
+**AI 分析**: The review is extremely brief but explicitly positive, using the word 'Great' in both the title and content and giving a perfect 5/5 rating.
+
+**主题**: 其他
+
+##### ⭐⭐⭐⭐ Sow good
+
+> Goooood
+
+**用户**: Aydmsjsbsnaşs | **版本**: 14.3.4 | **日期**: 2026-03-06
+
+**AI 分析**: The review uses enthusiastic, positive language ('Sow good', 'Goooood') and gives a high rating (4/5), indicating clear satisfaction despite the lack of detail.
+
+**主题**: 其他
+
+#### 😞 负面评价 (6)
+
+##### ⭐ I
+
+> I dint even receve my order after 14 days
+
+**用户**: They canceled it | **版本**: 14.3.4 | **日期**: 2026-03-06
+
+**AI 分析**: The reviewer expresses strong dissatisfaction due to not receiving their order after 14 days, indicating a serious failure in order fulfillment and delivery reliability.
+
+**主题**: 物流配送
+
+##### ⭐ ?
+
+> Je ne comprends pas pourquoi le paiement c’est mis alors que je n’ai pas mis de carte…
+
+**用户**: tiktok meilleir que samsung | **版本**: 14.3.2 | **日期**: 2026-03-04
+
+**AI 分析**: The reviewer expresses confusion and concern about an unauthorized or unexpected payment charge, indicating a serious issue with payment processing and lack of trust in the app's security or transparency.
+
+**主题**: 支付问题
+
+##### ⭐⭐⭐ Can you explain?
+
+> There was a $47 item in the cart, after clicking the Checkout button the total was $55, but when making the payment the total unexpectedly changed to $56….
+
+**用户**: An__G | **版本**: 14.3.2 | **日期**: 2026-03-04
+
+**AI 分析**: The reviewer expresses confusion and frustration over inconsistent pricing during checkout—$47 → $55 → $56—which suggests a lack of transparency and undermines trust in the purchasing process.
+
+**主题**: 支付问题、应用体验
+
+##### ⭐ 😡😡😡😡
+
+> I wasted my money cause of this app this is a scam
+
+**用户**: Zaynabi10 | **版本**: 14.3.2 | **日期**: 2026-03-04
+
+**AI 分析**: The review expresses extreme dissatisfaction with strong negative language ('wasted my money', 'scam') and uses four angry emojis with a 1/5 rating, indicating intense frustration and distrust.
+
+**主题**: 价格优惠、其他
+
+##### ⭐ BAD
+
+> NO HELLO KITTY NAISL
+
+**用户**: It’s a mehh | **版本**: 14.3.2 | **日期**: 2026-03-03
+
+**AI 分析**: The review is extremely brief and expresses strong dissatisfaction with the title 'BAD' and a 1/5 rating; the phrase 'NO HELLO KITTY NAISL' appears to be a frustrated, possibly misspelled or coded complaint—potentially indicating unmet expectations for Hello Kitty merchandise (e.g., unavailable, misrepresented, or not as advertised), suggesting disappointment related to product selection or accuracy.
+
+**主题**: 其他
+
+
+### Australia (50 条评论)
+
+#### 😊 正面评价 (37)
+
+##### ⭐⭐⭐⭐⭐ Very good
+
+> 👍👍👍
+
+**用户**: 2005nana23 | **版本**: 14.3.4 | **日期**: 2026-03-06
+
+**AI 分析**: The review is extremely brief but unambiguously positive, with a 5/5 rating and three thumbs-up emojis, indicating strong satisfaction without any criticism.
+
+**主题**: 其他
+
+##### ⭐⭐⭐⭐⭐ Response
+
+> Quick
+
+**用户**: varuvasu | **版本**: 14.3.4 | **日期**: 2026-03-06
+
+**AI 分析**: The review is extremely brief but explicitly gives a 5/5 rating and uses the word 'Quick', suggesting satisfaction—likely with response time (e.g., customer service or app performance). No negative language or complaints are present.
+
+**主题**: 客户服务、应用体验
+
+##### ⭐⭐⭐⭐⭐ shein
+
+> i love it its amazing, forever will buy from shein
+
+**用户**: Sagyedar | **版本**: 14.3.4 | **日期**: 2026-03-06
+
+**AI 分析**: The reviewer expresses strong enthusiasm with phrases like 'i love it its amazing' and 'forever will buy from shein', indicating high satisfaction and loyalty.
+
+**主题**: 其他
+
+##### ⭐⭐⭐⭐⭐ Jumpers
+
+> So comfy true to size
+
+**用户**: Jo M6 | **版本**: 14.3.4 | **日期**: 2026-03-06
+
+**AI 分析**: The reviewer gives a 5/5 rating and uses positive, enthusiastic language ('So comfy') along with affirmation of fit ('true to size'), indicating strong satisfaction with the product.
+
+**主题**: 产品质量、尺码合身
+
+##### ⭐⭐⭐⭐⭐ Love SHEIN
+
+> All clothing I have bought has been correct in size and a joy to wear!!
+
+**用户**: kiwikirkie | **版本**: 14.3.4 | **日期**: 2026-03-06
+
+**AI 分析**: The reviewer expresses strong enthusiasm with 'Love SHEIN' and a 5/5 rating, praising both accurate sizing and wearability of clothing, indicating high satisfaction.
+
+**主题**: 尺码合身、产品质量
+
+#### 😞 负面评价 (11)
+
+##### ⭐ Poor service and quality
+
+> I bought a product from Shein on 9th February 2026, and it was supposed to arrive by 17th February 2026. The Imile driver delivered my parcel to the wrong address, but Imile refuses to acknowledge their mistake, and Shein doesn’t care whether the parcel was delivered incorrectly or not. They won’t refund my $54.59 and say I need to understand? What kind of customer service is that? It’s a loss for the customer. I didn’t receive my item, and my money isn’t being returned. It’s absolutely terrible. I will never buy from Shein again. With Temu or AliExpress, I’ve never experienced anything like this. Maybe this is how Shein does business. The customer loses, but they don’t, and Shein doesn’t care. So be careful when buying from Shein. I’ve reported it to NSW Fair Trading.
+
+**用户**: Rosalina M | **版本**: 14.3.4 | **日期**: 2026-03-06
+
+**AI 分析**: The reviewer expresses extreme dissatisfaction due to non-delivery of an order, refusal of refund by SHEIN, and perceived lack of accountability from both SHEIN and the courier (Imile). Strong negative language ('absolutely terrible', 'never buy again', 'customer loses'), a 1/5 rating, and escalation to a government consumer authority (NSW Fair Trading) indicate intense frustration and loss of trust.
+
+**主题**: 物流配送、客户服务、退换货、支付问题
+
+##### ⭐ The dog gate I’m not happy
+
+> 😩
+
+**用户**: Dog gate | **版本**: 14.3.4 | **日期**: 2026-03-05
+
+**AI 分析**: The review expresses strong dissatisfaction with a 'dog gate'—an item unrelated to SHEIN—indicating confusion or misattribution, but the 1/5 rating and frustrated emoji (😩) convey clear negative sentiment.
+
+**主题**: 其他
+
+##### ⭐ Bunny
+
+> It’s ears broke very disappointed when opened it to find ears broken
+
+**用户**: Valcoom | **版本**: 14.3.4 | **日期**: 2026-03-05
+
+**AI 分析**: The reviewer expresses strong disappointment due to a physical defect (broken ears) upon opening the product, resulting in a 1/5 rating.
+
+**主题**: 产品质量
+
+##### ⭐⭐ Used to be cheap
+
+> Everything used to be cheap but now there’s small things on there for like $20 and it’s a bit ridiculous
+
+**用户**: Trixy2384 | **版本**: 14.3.4 | **日期**: 2026-03-05
+
+**AI 分析**: The reviewer expresses disappointment that prices have increased significantly, calling current pricing 'a bit ridiculous' compared to the past when items were 'cheap'. The low 2/5 rating reinforces dissatisfaction.
+
+**主题**: 价格优惠
+
+##### ⭐ Amanda Casey
+
+> I was advised on your first purchase you receive 60% off however this was not given upon check out !
+
+**用户**: Ape80 | **版本**: 14.3.4 | **日期**: 2026-03-05
+
+**AI 分析**: The reviewer expresses disappointment and frustration about not receiving the advertised 60% discount on their first purchase, indicating a broken promise and negative initial experience.
+
+**主题**: 价格优惠、应用体验
+
+
 ---
 
-*报告生成时间: 2026-03-08T08:16:36.864Z*
+*报告生成时间: 2026-03-08T08:27:33.192Z*
 *分析引擎: 通义千问*

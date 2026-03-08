@@ -4,35 +4,35 @@
 
 - **App**: SHEIN - Shopping Online
 - **Overall Rating**: 4.62/5.0
-- **Total Reviews**: 1,399,565
+- **Total Reviews**: 1,391,486
 - **Current Version**: 14.3.4
 
 ## 📊 Analysis Summary
 
-- **Reviews Analyzed**: 100
+- **Reviews Analyzed**: 200
 - **Period**: Latest reviews from App Store
 
 ### ⭐ Rating Distribution
 
-- ⭐⭐⭐⭐⭐ (5): 70 (70.0%) ██████████████
-- ⭐⭐⭐⭐ (4): 8 (8.0%) ██
-- ⭐⭐⭐ (3): 9 (9.0%) ██
-- ⭐⭐ (2): 2 (2.0%) 
-- ⭐ (1): 11 (11.0%) ██
+- ⭐⭐⭐⭐⭐ (5): 146 (73.0%) ███████████████
+- ⭐⭐⭐⭐ (4): 13 (6.5%) █
+- ⭐⭐⭐ (3): 13 (6.5%) █
+- ⭐⭐ (2): 3 (1.5%) 
+- ⭐ (1): 25 (12.5%) ███
 
 ### 😊 Sentiment Analysis
 
-- 😊 Positive: 78 (78.0%)
-- 😐 Neutral: 7 (7.0%)
-- 😞 Negative: 15 (15.0%)
+- 😊 Positive: 159 (79.5%)
+- 😐 Neutral: 9 (4.5%)
+- 😞 Negative: 32 (16.0%)
 
 ### 🏷️ Top Discussion Topics
 
-1. **Product Quality**: 46 mentions (46.0%)
-2. **Other**: 33 mentions (33.0%)
-3. **App Experience**: 25 mentions (25.0%)
-4. **Delivery & Shipping**: 24 mentions (24.0%)
-5. **Pricing & Value**: 22 mentions (22.0%)
+1. **Product Quality**: 90 mentions (45.0%)
+2. **Other**: 68 mentions (34.0%)
+3. **Pricing & Value**: 50 mentions (25.0%)
+4. **Delivery & Shipping**: 47 mentions (23.5%)
+5. **App Experience**: 43 mentions (21.5%)
 
 ## 🌍 Reviews by Region
 
@@ -44,7 +44,7 @@
 
 > Muy bueno
 
-**Author**: Dianora22 | **Version**: 14.3.4 | **Date**: 2026-03-07
+**Author**: Dianora22 | **Version**: 14.3.4 | **Date**: 2026-03-06
 
 **AI Analysis**: The review uses strongly positive Spanish words ('Excelente' and 'Muy bueno') indicating high satisfaction, though it lacks specific details about features or experiences.
 
@@ -54,9 +54,9 @@
 
 > Love shopping on SHEIN
 
-**Author**: Spice Lino | **Version**: 14.3.4 | **Date**: 2026-03-07
+**Author**: Spice Lino | **Version**: 14.3.4 | **Date**: 2026-03-06
 
-**AI Analysis**: The review expresses strong enthusiasm with 'Love shopping on SHEIN' and is accompanied by a perfect 5/5 rating, indicating high satisfaction. Though brief, the language is unambiguously positive and conveys emotional approval.
+**AI Analysis**: The review expresses strong enthusiasm with 'Love shopping on SHEIN' and is accompanied by a 5/5 rating, indicating high satisfaction. Though brief and lacking specific details, the language is unambiguously positive.
 
 **Topics**: Other
 
@@ -86,7 +86,7 @@
 
 **Author**: Solcarrillo/\ | **Version**: 14.3.4 | **Date**: 2026-03-06
 
-**AI Analysis**: The review uses the word 'Perfecto' (Spanish for 'Perfect') and gives a 4/5 rating, indicating strong satisfaction despite the incomplete or ambiguous title ('Las cosas llegan en estado' — 'Things arrive in state', likely cut off or mistranslated, but not reflected negatively in the body or rating).
+**AI Analysis**: The review uses the word 'Perfecto' (Spanish for 'Perfect') and gives a 4/5 rating, indicating strong satisfaction despite the incomplete or ambiguous title ('Las cosas llegan en estado' — 'Things arrive in state', likely cut off or mistranslated but not conveying negativity).
 
 **Topics**: Delivery & Shipping
 
@@ -108,7 +108,7 @@
 
 **Author**: Randompeep223 | **Version**: 14.3.4 | **Date**: 2026-03-06
 
-**AI Analysis**: The reviewer expresses strong dissatisfaction with multiple aspects: poor quality relative to high prices, slow delivery, and frequent order errors (e.g., wrong or missing items), culminating in the word 'terrible'. The 1/5 rating reinforces the highly negative sentiment.
+**AI Analysis**: The reviewer expresses strong dissatisfaction with multiple aspects: poor quality relative to high prices, slow delivery, and frequent order errors — culminating in the word 'terrible' and a 1/5 rating.
 
 **Topics**: Product Quality, Pricing & Value, Delivery & Shipping, Returns & Refunds
 
@@ -138,9 +138,9 @@
 
 **Author**: NoIDontWantOne! | **Version**: 14.3.4 | **Date**: 2026-03-06
 
-**AI Analysis**: The reviewer strongly condemns the app as a 'phishing scam' and gives it the lowest possible rating (1/5), indicating extreme distrust and dissatisfaction.
+**AI Analysis**: The reviewer labels the app an 'obvious phishing scam' and gives it a 1/5 rating, expressing strong distrust and alarm over being asked for credit card information before shopping.
 
-**Topics**: Payment Issues, security, App Experience
+**Topics**: Payment Issues, security, Other
 
 
 ### United Kingdom (50 reviews)
@@ -203,7 +203,7 @@
 
 > Not very satisfy with delivery amount
 
-**Author**: @@@@@@@;3: | **Version**: 14.3.4 | **Date**: 2026-03-06
+**Author**: @@@@@@@;3: | **Version**: 14.3.4 | **Date**: 2026-03-05
 
 **AI Analysis**: The reviewer expresses dissatisfaction specifically with the delivery fee policy, stating they expect free delivery for orders over £10 and gives a low 1/5 rating.
 
@@ -215,7 +215,7 @@
 
 **Author**: ARJ4774 | **Version**: 14.3.4 | **Date**: 2026-03-05
 
-**AI Analysis**: The reviewer expresses frustration with a critical bug in the app's cart functionality—where removing items does not update the total price, undermining trust and usability. Although the rating is 3/5 (neutral-mixed), the detailed complaint about broken core functionality indicates strong dissatisfaction.
+**AI Analysis**: The reviewer expresses frustration with a critical bug in the app's cart functionality—specifically, the total price fails to update correctly when items are removed, undermining trust and usability. Although the rating is 3/5 (moderately dissatisfied), the issue described is severe for core shopping functionality, indicating strong negative sentiment.
 
 **Topics**: App Experience, Payment Issues
 
@@ -225,7 +225,7 @@
 
 **Author**: Salima arman | **Version**: 14.3.4 | **Date**: 2026-03-05
 
-**AI Analysis**: The reviewer expresses strong disappointment due to unexpected price increases between adding an item to the bag and checkout, calling it 'very disappointing' and stating the app 'doesn’t have the worth any more', indicating a severe loss of trust and satisfaction.
+**AI Analysis**: The reviewer expresses strong disappointment due to significant and unexpected price increases between adding an item to the bag and checkout, calling it 'very disappointing' and stating the app 'doesn’t have the worth any more'. The 1/5 rating reinforces intense dissatisfaction.
 
 **Topics**: Pricing & Value, App Experience
 
@@ -233,9 +233,9 @@
 
 > Prices change once at checkout very upsetting
 
-**Author**: U PEOPLE NEED A SOCIAL LIFE | **Version**: 14.3.2 | **Date**: 2026-03-05
+**Author**: U PEOPLE NEED A SOCIAL LIFE | **Version**: 14.3.2 | **Date**: 2026-03-04
 
-**AI Analysis**: The reviewer expresses strong dissatisfaction due to unexpected price increases at checkout, calling it 'very upsetting' and giving a 1/5 rating.
+**AI Analysis**: The reviewer expresses strong dissatisfaction due to unexpected price changes at checkout, calling it 'very upsetting' and giving a 1/5 rating.
 
 **Topics**: Pricing & Value
 
@@ -243,14 +243,228 @@
 
 > Way too many pop-ups and deals it gets too confusing
 
-**Author**: disco09 | **Version**: 14.3.2 | **Date**: 2026-03-05
+**Author**: disco09 | **Version**: 14.3.2 | **Date**: 2026-03-04
 
 **AI Analysis**: The reviewer expresses frustration with excessive pop-ups and deals, describing the experience as 'too confusing', which indicates a poor user interface experience and dissatisfaction with app usability.
 
 **Topics**: App Experience
 
 
+### Canada (50 reviews)
+
+#### 😊 Positive Reviews (44)
+
+##### ⭐⭐⭐⭐⭐ Sheinlover
+
+> Amo SHEIN , me encanta por qué consigo muchos complementos sin salir de casa , muy buena calidad y buenos precios, envío gratis y súper rápido .
+
+**Author**: Luna1036 | **Version**: 14.3.4 | **Date**: 2026-03-06
+
+**AI Analysis**: The reviewer expresses strong enthusiasm ('Amo SHEIN', 'me encanta') and praises multiple aspects: convenience of shopping from home, accessory variety, good quality, good prices, free shipping, and very fast delivery — all positive attributes with no criticism.
+
+**Topics**: Delivery & Shipping, Product Quality, Pricing & Value, App Experience
+
+##### ⭐⭐⭐ J’aime
+
+> J’aime puisque les pris son bas et qu’il me permet de faire des économies.
+
+**Author**: Caroline Larochelle | **Version**: 14.3.4 | **Date**: 2026-03-06
+
+**AI Analysis**: The reviewer expresses affection ('J’aime' means 'I love it') and highlights two positive aspects: low prices and money savings, indicating overall satisfaction despite the modest 3/5 rating.
+
+**Topics**: Pricing & Value
+
+##### ⭐⭐⭐⭐⭐ I like it
+
+> I love it
+
+**Author**: lihimagojo1 | **Version**: 14.3.4 | **Date**: 2026-03-06
+
+**AI Analysis**: The review expresses strong enthusiasm with 'I love it' and a perfect 5/5 rating, indicating unqualified satisfaction.
+
+**Topics**: Other
+
+##### ⭐⭐⭐⭐⭐ Great
+
+> Great
+
+**Author**: Wien rich | **Version**: 14.3.4 | **Date**: 2026-03-06
+
+**AI Analysis**: The review is extremely brief but explicitly positive, using the word 'Great' in both the title and content and giving a perfect 5/5 rating.
+
+**Topics**: Other
+
+##### ⭐⭐⭐⭐ Sow good
+
+> Goooood
+
+**Author**: Aydmsjsbsnaşs | **Version**: 14.3.4 | **Date**: 2026-03-06
+
+**AI Analysis**: The review uses enthusiastic, positive language ('Sow good', 'Goooood') and gives a high rating (4/5), indicating clear satisfaction despite the lack of detail.
+
+**Topics**: Other
+
+#### 😞 Negative Reviews (6)
+
+##### ⭐ I
+
+> I dint even receve my order after 14 days
+
+**Author**: They canceled it | **Version**: 14.3.4 | **Date**: 2026-03-06
+
+**AI Analysis**: The reviewer expresses strong dissatisfaction due to not receiving their order after 14 days, indicating a serious failure in order fulfillment and delivery reliability.
+
+**Topics**: Delivery & Shipping
+
+##### ⭐ ?
+
+> Je ne comprends pas pourquoi le paiement c’est mis alors que je n’ai pas mis de carte…
+
+**Author**: tiktok meilleir que samsung | **Version**: 14.3.2 | **Date**: 2026-03-04
+
+**AI Analysis**: The reviewer expresses confusion and concern about an unauthorized or unexpected payment charge, indicating a serious issue with payment processing and lack of trust in the app's security or transparency.
+
+**Topics**: Payment Issues
+
+##### ⭐⭐⭐ Can you explain?
+
+> There was a $47 item in the cart, after clicking the Checkout button the total was $55, but when making the payment the total unexpectedly changed to $56….
+
+**Author**: An__G | **Version**: 14.3.2 | **Date**: 2026-03-04
+
+**AI Analysis**: The reviewer expresses confusion and frustration over inconsistent pricing during checkout—$47 → $55 → $56—which suggests a lack of transparency and undermines trust in the purchasing process.
+
+**Topics**: Payment Issues, App Experience
+
+##### ⭐ 😡😡😡😡
+
+> I wasted my money cause of this app this is a scam
+
+**Author**: Zaynabi10 | **Version**: 14.3.2 | **Date**: 2026-03-04
+
+**AI Analysis**: The review expresses extreme dissatisfaction with strong negative language ('wasted my money', 'scam') and uses four angry emojis with a 1/5 rating, indicating intense frustration and distrust.
+
+**Topics**: Pricing & Value, Other
+
+##### ⭐ BAD
+
+> NO HELLO KITTY NAISL
+
+**Author**: It’s a mehh | **Version**: 14.3.2 | **Date**: 2026-03-03
+
+**AI Analysis**: The review is extremely brief and expresses strong dissatisfaction with the title 'BAD' and a 1/5 rating; the phrase 'NO HELLO KITTY NAISL' appears to be a frustrated, possibly misspelled or coded complaint—potentially indicating unmet expectations for Hello Kitty merchandise (e.g., unavailable, misrepresented, or not as advertised), suggesting disappointment related to product selection or accuracy.
+
+**Topics**: Other
+
+
+### Australia (50 reviews)
+
+#### 😊 Positive Reviews (37)
+
+##### ⭐⭐⭐⭐⭐ Very good
+
+> 👍👍👍
+
+**Author**: 2005nana23 | **Version**: 14.3.4 | **Date**: 2026-03-06
+
+**AI Analysis**: The review is extremely brief but unambiguously positive, with a 5/5 rating and three thumbs-up emojis, indicating strong satisfaction without any criticism.
+
+**Topics**: Other
+
+##### ⭐⭐⭐⭐⭐ Response
+
+> Quick
+
+**Author**: varuvasu | **Version**: 14.3.4 | **Date**: 2026-03-06
+
+**AI Analysis**: The review is extremely brief but explicitly gives a 5/5 rating and uses the word 'Quick', suggesting satisfaction—likely with response time (e.g., customer service or app performance). No negative language or complaints are present.
+
+**Topics**: Customer Service, App Experience
+
+##### ⭐⭐⭐⭐⭐ shein
+
+> i love it its amazing, forever will buy from shein
+
+**Author**: Sagyedar | **Version**: 14.3.4 | **Date**: 2026-03-06
+
+**AI Analysis**: The reviewer expresses strong enthusiasm with phrases like 'i love it its amazing' and 'forever will buy from shein', indicating high satisfaction and loyalty.
+
+**Topics**: Other
+
+##### ⭐⭐⭐⭐⭐ Jumpers
+
+> So comfy true to size
+
+**Author**: Jo M6 | **Version**: 14.3.4 | **Date**: 2026-03-06
+
+**AI Analysis**: The reviewer gives a 5/5 rating and uses positive, enthusiastic language ('So comfy') along with affirmation of fit ('true to size'), indicating strong satisfaction with the product.
+
+**Topics**: Product Quality, Size & Fit
+
+##### ⭐⭐⭐⭐⭐ Love SHEIN
+
+> All clothing I have bought has been correct in size and a joy to wear!!
+
+**Author**: kiwikirkie | **Version**: 14.3.4 | **Date**: 2026-03-06
+
+**AI Analysis**: The reviewer expresses strong enthusiasm with 'Love SHEIN' and a 5/5 rating, praising both accurate sizing and wearability of clothing, indicating high satisfaction.
+
+**Topics**: Size & Fit, Product Quality
+
+#### 😞 Negative Reviews (11)
+
+##### ⭐ Poor service and quality
+
+> I bought a product from Shein on 9th February 2026, and it was supposed to arrive by 17th February 2026. The Imile driver delivered my parcel to the wrong address, but Imile refuses to acknowledge their mistake, and Shein doesn’t care whether the parcel was delivered incorrectly or not. They won’t refund my $54.59 and say I need to understand? What kind of customer service is that? It’s a loss for the customer. I didn’t receive my item, and my money isn’t being returned. It’s absolutely terrible. I will never buy from Shein again. With Temu or AliExpress, I’ve never experienced anything like this. Maybe this is how Shein does business. The customer loses, but they don’t, and Shein doesn’t care. So be careful when buying from Shein. I’ve reported it to NSW Fair Trading.
+
+**Author**: Rosalina M | **Version**: 14.3.4 | **Date**: 2026-03-06
+
+**AI Analysis**: The reviewer expresses extreme dissatisfaction due to non-delivery of an order, refusal of refund by SHEIN, and perceived lack of accountability from both SHEIN and the courier (Imile). Strong negative language ('absolutely terrible', 'never buy again', 'customer loses'), a 1/5 rating, and escalation to a government consumer authority (NSW Fair Trading) indicate intense frustration and loss of trust.
+
+**Topics**: Delivery & Shipping, Customer Service, Returns & Refunds, Payment Issues
+
+##### ⭐ The dog gate I’m not happy
+
+> 😩
+
+**Author**: Dog gate | **Version**: 14.3.4 | **Date**: 2026-03-05
+
+**AI Analysis**: The review expresses strong dissatisfaction with a 'dog gate'—an item unrelated to SHEIN—indicating confusion or misattribution, but the 1/5 rating and frustrated emoji (😩) convey clear negative sentiment.
+
+**Topics**: Other
+
+##### ⭐ Bunny
+
+> It’s ears broke very disappointed when opened it to find ears broken
+
+**Author**: Valcoom | **Version**: 14.3.4 | **Date**: 2026-03-05
+
+**AI Analysis**: The reviewer expresses strong disappointment due to a physical defect (broken ears) upon opening the product, resulting in a 1/5 rating.
+
+**Topics**: Product Quality
+
+##### ⭐⭐ Used to be cheap
+
+> Everything used to be cheap but now there’s small things on there for like $20 and it’s a bit ridiculous
+
+**Author**: Trixy2384 | **Version**: 14.3.4 | **Date**: 2026-03-05
+
+**AI Analysis**: The reviewer expresses disappointment that prices have increased significantly, calling current pricing 'a bit ridiculous' compared to the past when items were 'cheap'. The low 2/5 rating reinforces dissatisfaction.
+
+**Topics**: Pricing & Value
+
+##### ⭐ Amanda Casey
+
+> I was advised on your first purchase you receive 60% off however this was not given upon check out !
+
+**Author**: Ape80 | **Version**: 14.3.4 | **Date**: 2026-03-05
+
+**AI Analysis**: The reviewer expresses disappointment and frustration about not receiving the advertised 60% discount on their first purchase, indicating a broken promise and negative initial experience.
+
+**Topics**: Pricing & Value, App Experience
+
+
 ---
 
-*Report generated on 2026-03-08T08:16:36.859Z*
+*Report generated on 2026-03-08T08:27:33.190Z*
 *Powered by Qwen AI*

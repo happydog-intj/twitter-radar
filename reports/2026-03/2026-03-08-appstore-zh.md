@@ -28,11 +28,11 @@
 
 ### 🏷️ 热门话题
 
-1. **产品质量**: 90 次提及 (45.0%)
-2. **其他**: 68 次提及 (34.0%)
-3. **价格优惠**: 50 次提及 (25.0%)
+1. **产品质量**: 93 次提及 (46.5%)
+2. **其他**: 65 次提及 (32.5%)
+3. **价格优惠**: 51 次提及 (25.5%)
 4. **物流配送**: 47 次提及 (23.5%)
-5. **应用体验**: 43 次提及 (21.5%)
+5. **应用体验**: 42 次提及 (21.0%)
 
 ## 🌍 各地区评论
 
@@ -46,7 +46,7 @@
 
 **用户**: Dianora22 | **版本**: 14.3.4 | **日期**: 2026-03-06
 
-**AI 分析**: The review uses strongly positive Spanish words ('Excelente' and 'Muy bueno') indicating high satisfaction, though it lacks specific details about features or experiences.
+**AI 分析**: The review uses strongly positive Spanish words ('Excelente' and 'Muy bueno') and gives a 5/5 rating, indicating high satisfaction with no negative qualifiers or specific complaints.
 
 **主题**: 其他
 
@@ -86,9 +86,9 @@
 
 **用户**: Solcarrillo/\ | **版本**: 14.3.4 | **日期**: 2026-03-06
 
-**AI 分析**: The review uses the word 'Perfecto' (Spanish for 'Perfect') and gives a 4/5 rating, indicating strong satisfaction despite the incomplete or ambiguous title ('Las cosas llegan en estado' — 'Things arrive in state', likely cut off or mistranslated but not conveying negativity).
+**AI 分析**: The review uses the word 'Perfecto' (Spanish for 'Perfect') and gives a 4/5 rating, indicating strong satisfaction despite the ambiguous title ('Las cosas llegan en estado' — 'The items arrive in condition', which is incomplete or possibly cut off but does not override the explicitly positive content and high rating).
 
-**主题**: 物流配送
+**主题**: 物流配送、产品质量
 
 #### 😞 负面评价 (10)
 
@@ -98,7 +98,7 @@
 
 **用户**: Romerojadenia | **版本**: 14.3.4 | **日期**: 2026-03-06
 
-**AI 分析**: The reviewer expresses strong frustration with delivery, using emphatic language ('You guys kills me on the delivery'), and gives a low rating (2/5), indicating significant dissatisfaction.
+**AI 分析**: The reviewer expresses strong frustration with delivery, using emphatic language ('You guys kills me'), and gives a low rating of 2/5, indicating significant dissatisfaction.
 
 **主题**: 物流配送
 
@@ -118,7 +118,7 @@
 
 **用户**: BYU44 | **版本**: 14.3.4 | **日期**: 2026-03-06
 
-**AI 分析**: The reviewer is frustrated by misleading 'free shipping' claims, as they discovered unexpectedly high shipping costs—up to three times the item's value—contradicting advertised promises, leading to a 1/5 rating.
+**AI 分析**: The reviewer is frustrated by misleading 'free shipping' claims, as they discovered unexpectedly high shipping costs—up to three times the item's value—contradicting advertised policy, leading to a 1/5 rating.
 
 **主题**: 物流配送、价格优惠
 
@@ -138,9 +138,9 @@
 
 **用户**: NoIDontWantOne! | **版本**: 14.3.4 | **日期**: 2026-03-06
 
-**AI 分析**: The reviewer labels the app an 'obvious phishing scam' and gives it a 1/5 rating, expressing strong distrust and alarm over being asked for credit card information before shopping.
+**AI 分析**: The reviewer strongly condemns the app as a 'phishing scam' and gives it the lowest possible rating (1/5), indicating extreme distrust and dissatisfaction.
 
-**主题**: 支付问题、security、其他
+**主题**: 支付问题、security、应用体验
 
 
 ### United Kingdom (50 条评论)
@@ -183,7 +183,7 @@
 
 **用户**: Suzy.thakur | **版本**: 14.3.4 | **日期**: 2026-03-06
 
-**AI 分析**: The reviewer expresses clear satisfaction with the app/service, using positive phrases like 'Happy customer', 'Very affordable', and 'great value', indicating strong approval of pricing and perceived worth.
+**AI 分析**: The reviewer expresses clear satisfaction with phrases like 'Happy customer' and 'Very affordable, great value', indicating strong positive sentiment toward the app's pricing and perceived worth.
 
 **主题**: 价格优惠、产品质量
 
@@ -215,7 +215,7 @@
 
 **用户**: ARJ4774 | **版本**: 14.3.4 | **日期**: 2026-03-05
 
-**AI 分析**: The reviewer expresses frustration with a critical bug in the app's cart functionality—specifically, the total price fails to update correctly when items are removed, undermining trust and usability. Although the rating is 3/5 (moderately dissatisfied), the issue described is severe for core shopping functionality, indicating strong negative sentiment.
+**AI 分析**: The reviewer expresses frustration with a critical bug in the app's cart functionality—specifically, the total price fails to update correctly when items are removed, undermining trust and usability. Although the rating is 3/5 (moderately dissatisfied), the issue described is severe for core shopping functionality, warranting a strongly negative sentiment score.
 
 **主题**: 应用体验、支付问题
 
@@ -225,7 +225,7 @@
 
 **用户**: Salima arman | **版本**: 14.3.4 | **日期**: 2026-03-05
 
-**AI 分析**: The reviewer expresses strong disappointment due to significant and unexpected price increases between adding an item to the bag and checkout, calling it 'very disappointing' and stating the app 'doesn’t have the worth any more'. The 1/5 rating reinforces intense dissatisfaction.
+**AI 分析**: The reviewer expresses strong disappointment due to unexpected price increases between adding an item to the bag and checkout, calling it 'very disappointing' and stating the app 'doesn’t have the worth any more', indicating a severe loss of trust and satisfaction.
 
 **主题**: 价格优惠、应用体验
 
@@ -280,7 +280,7 @@
 
 **用户**: lihimagojo1 | **版本**: 14.3.4 | **日期**: 2026-03-06
 
-**AI 分析**: The review expresses strong enthusiasm with 'I love it' and a perfect 5/5 rating, indicating unqualified satisfaction.
+**AI 分析**: The review expresses strong enthusiasm with 'I love it' and a perfect 5/5 rating, indicating a highly favorable experience with no criticisms or reservations.
 
 **主题**: 其他
 
@@ -290,7 +290,7 @@
 
 **用户**: Wien rich | **版本**: 14.3.4 | **日期**: 2026-03-06
 
-**AI 分析**: The review is extremely brief but explicitly positive, using the word 'Great' in both the title and content and giving a perfect 5/5 rating.
+**AI 分析**: The review is extremely brief but explicitly uses the word 'Great' in both the title and content, and awards a 5/5 rating, indicating strong satisfaction with the app.
 
 **主题**: 其他
 
@@ -322,7 +322,7 @@
 
 **用户**: tiktok meilleir que samsung | **版本**: 14.3.2 | **日期**: 2026-03-04
 
-**AI 分析**: The reviewer expresses confusion and concern about an unauthorized or unexpected payment charge, indicating a serious issue with payment processing and lack of trust in the app's security or transparency.
+**AI 分析**: The reviewer expresses confusion and concern about an unauthorized or unexpected payment charge, indicating a serious trust and security issue with the app's payment process.
 
 **主题**: 支付问题
 
@@ -342,7 +342,7 @@
 
 **用户**: Zaynabi10 | **版本**: 14.3.2 | **日期**: 2026-03-04
 
-**AI 分析**: The review expresses extreme dissatisfaction with strong negative language ('wasted my money', 'scam') and uses four angry emojis with a 1/5 rating, indicating intense frustration and distrust.
+**AI 分析**: The review expresses extreme dissatisfaction with strong negative language ('wasted my money', 'scam') and uses four angry emojis along with a 1/5 rating, indicating intense frustration and distrust.
 
 **主题**: 价格优惠、其他
 
@@ -352,9 +352,9 @@
 
 **用户**: It’s a mehh | **版本**: 14.3.2 | **日期**: 2026-03-03
 
-**AI 分析**: The review is extremely brief and expresses strong dissatisfaction with the title 'BAD' and a 1/5 rating; the phrase 'NO HELLO KITTY NAISL' appears to be a frustrated, possibly misspelled or coded complaint—potentially indicating unmet expectations for Hello Kitty merchandise (e.g., unavailable, misrepresented, or not as advertised), suggesting disappointment related to product selection or accuracy.
+**AI 分析**: The review is extremely brief and expresses strong dissatisfaction with the word 'BAD' in the title, a 1/5 rating, and an incoherent or frustrated phrase ('NO HELLO KITTY NAISL') suggesting unmet expectations—likely for a Hello Kitty item that was unavailable or misrepresented.
 
-**主题**: 其他
+**主题**: 产品质量、其他
 
 
 ### Australia (50 条评论)
@@ -367,7 +367,7 @@
 
 **用户**: 2005nana23 | **版本**: 14.3.4 | **日期**: 2026-03-06
 
-**AI 分析**: The review is extremely brief but unambiguously positive, with a 5/5 rating and three thumbs-up emojis, indicating strong satisfaction without any criticism.
+**AI 分析**: The review uses a 5/5 rating and three thumbs-up emojis, indicating strong satisfaction with no negative qualifiers or criticisms.
 
 **主题**: 其他
 
@@ -439,7 +439,7 @@
 
 **用户**: Valcoom | **版本**: 14.3.4 | **日期**: 2026-03-05
 
-**AI 分析**: The reviewer expresses strong disappointment due to a physical defect (broken ears) upon opening the product, resulting in a 1/5 rating.
+**AI 分析**: The reviewer expresses strong disappointment due to a physical defect (broken ears) upon opening the product, and gives a 1/5 rating, indicating severe dissatisfaction with the item received.
 
 **主题**: 产品质量
 
@@ -459,12 +459,12 @@
 
 **用户**: Ape80 | **版本**: 14.3.4 | **日期**: 2026-03-05
 
-**AI 分析**: The reviewer expresses disappointment and frustration about not receiving the advertised 60% discount on their first purchase, indicating a broken promise and negative initial experience.
+**AI 分析**: The reviewer expresses dissatisfaction due to not receiving the advertised 60% discount on their first purchase, indicating a broken promise and negative experience with promotional integrity.
 
 **主题**: 价格优惠、应用体验
 
 
 ---
 
-*报告生成时间: 2026-03-08T08:27:33.192Z*
+*报告生成时间: 2026-03-08T09:44:53.481Z*
 *分析引擎: 通义千问*

@@ -4,6 +4,9 @@ import { collectAppStoreReviews, getAppInfo } from './collectors/app-store.js';
 import { analyzeBatch } from './analyzers/app-store.js';
 import { generateAppStoreReport } from './generators/app-store-markdown.js';
 import { sendNegativeReviewsNotification } from './notifiers/telegram.js';
+import { ReviewCache, deduplicateByContent } from './utils/cache.js';
+import { generateAlerts, logAlerts, formatAlertsForTelegram } from './utils/alerts.js';
+import { sendTelegramNotification } from './notifiers/telegram.js';
 import type { AppStoreConfig } from './types.js';
 
 // App Store configuration
@@ -32,15 +35,42 @@ async function main() {
     console.error(`   Total Reviews: ${appInfo.totalReviews.toLocaleString()}\n`);
 
     // Step 2: Collect reviews
-    const reviews = await collectAppStoreReviews(APP_STORE_CONFIG);
+    let reviews = await collectAppStoreReviews(APP_STORE_CONFIG);
 
     if (reviews.length === 0) {
       console.error('❌ No reviews collected. Exiting.');
       return;
     }
 
-    // Step 3: Analyze with Qwen AI
-    const analyzed = await analyzeBatch(reviews);
+    // Step 2.5: Deduplicate reviews
+    console.error(`\n📋 Collected ${reviews.length} reviews`);
+
+    // Deduplicate by content (same review in multiple regions)
+    reviews = deduplicateByContent(reviews);
+
+    // Filter out already processed reviews using cache
+    const cache = new ReviewCache('appstore');
+    console.error(`💾 Cache contains ${cache.size()} previously analyzed reviews`);
+    const newReviews = cache.filterNew(reviews);
+
+    if (newReviews.length === 0) {
+      console.error('✅ No new reviews to analyze. All reviews already processed.');
+      return;
+    }
+
+    console.error(`\n🆕 ${newReviews.length} new reviews to analyze\n`);
+
+    // Step 3: Analyze with Qwen AI (concurrent processing)
+    const analyzed = await analyzeBatch(newReviews, undefined, {
+      concurrent: true,
+      concurrency: 5,
+    });
+
+    // Mark reviews as processed
+    cache.addBatch(analyzed.map((r) => r.id));
+
+    // Clean old cache entries (keep last 30 days)
+    cache.cleanOld(30);
 
     // Calculate stats
     const positive = analyzed.filter((r) => r.sentiment.sentiment === 'positive').length;
@@ -71,6 +101,18 @@ async function main() {
     // Send detailed negative reviews to Telegram
     console.error('\n📤 Sending negative reviews to Telegram...');
     await sendNegativeReviewsNotification(analyzed, [], undefined);
+
+    // Step 5: Generate and send smart alerts
+    console.error('\n🔔 Generating smart alerts...');
+    const alerts = generateAlerts(analyzed, []);
+    logAlerts(alerts);
+
+    if (alerts.length > 0) {
+      const alertMessage = formatAlertsForTelegram(alerts);
+      if (alertMessage) {
+        await sendTelegramNotification(alertMessage);
+      }
+    }
 
     console.error('\n✅ App Store analysis complete!');
   } catch (error) {

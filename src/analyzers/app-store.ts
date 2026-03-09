@@ -124,31 +124,91 @@ function parseQwenResponse(content: string): QwenAnalysisResult {
 
 export async function analyzeBatch(
   reviews: AppStoreReview[],
-  onProgress?: (current: number, total: number) => void
+  onProgress?: (current: number, total: number) => void,
+  options: {
+    concurrent?: boolean;
+    concurrency?: number;
+  } = {}
 ): Promise<AnalyzedAppStoreReview[]> {
-  const analyzed: AnalyzedAppStoreReview[] = [];
+  const { concurrent = true, concurrency = 5 } = options;
 
-  console.error(`\n🤖 Analyzing ${reviews.length} reviews with Qwen AI...\n`);
+  console.error(`\n🤖 Analyzing ${reviews.length} reviews with Qwen AI...`);
+  console.error(`   Mode: ${concurrent ? `Concurrent (${concurrency} at a time)` : 'Sequential'}\n`);
 
-  for (let i = 0; i < reviews.length; i++) {
-    const review = reviews[i];
+  if (!concurrent) {
+    // Original sequential processing
+    const analyzed: AnalyzedAppStoreReview[] = [];
 
-    if (onProgress) {
-      onProgress(i + 1, reviews.length);
+    for (let i = 0; i < reviews.length; i++) {
+      const review = reviews[i];
+
+      if (onProgress) {
+        onProgress(i + 1, reviews.length);
+      }
+
+      console.error(`[${i + 1}/${reviews.length}] Analyzing review from ${review.region}...`);
+
+      const analyzedReview = await analyzeReview(review);
+      analyzed.push(analyzedReview);
+
+      // Rate limiting: 500ms between requests
+      if (i < reviews.length - 1) {
+        await new Promise((resolve) => setTimeout(resolve, 500));
+      }
     }
 
-    console.error(`[${i + 1}/${reviews.length}] Analyzing review from ${review.region}...`);
+    console.error(`\n✅ Analysis complete!\n`);
+    return analyzed;
+  }
 
-    const analyzedReview = await analyzeReview(review);
-    analyzed.push(analyzedReview);
+  // Concurrent processing with batching
+  const analyzed: AnalyzedAppStoreReview[] = [];
+  const total = reviews.length;
 
-    // Rate limiting: 500ms between requests
-    if (i < reviews.length - 1) {
-      await new Promise((resolve) => setTimeout(resolve, 500));
+  for (let i = 0; i < total; i += concurrency) {
+    const batch = reviews.slice(i, i + concurrency);
+    const batchStart = i + 1;
+
+    console.error(`📦 Processing batch ${Math.floor(i / concurrency) + 1}/${Math.ceil(total / concurrency)} (reviews ${batchStart}-${Math.min(i + concurrency, total)})...`);
+
+    // Process batch concurrently
+    const batchPromises = batch.map(async (review, batchIndex) => {
+      try {
+        const result = await analyzeReview(review);
+
+        if (onProgress) {
+          onProgress(batchStart + batchIndex, total);
+        }
+
+        return result;
+      } catch (error) {
+        console.error(`❌ Failed to analyze review ${review.id}:`, error);
+        // Return fallback analysis
+        const fallbackSentiment: SentimentAnalysis = {
+          sentiment: review.rating >= 4 ? 'positive' : review.rating <= 2 ? 'negative' : 'neutral',
+          score: (review.rating - 3) / 2,
+          confidence: 0.5,
+          summary: '分析失败(使用评分降级处理)',
+        };
+        return {
+          ...review,
+          sentiment: fallbackSentiment,
+          topics: ['other'],
+          analyzedAt: new Date().toISOString(),
+        };
+      }
+    });
+
+    const batchResults = await Promise.all(batchPromises);
+    analyzed.push(...batchResults);
+
+    // Rate limiting between batches
+    if (i + concurrency < total) {
+      await new Promise((resolve) => setTimeout(resolve, 1000));
     }
   }
 
-  console.error(`\n✅ Analysis complete!\n`);
+  console.error(`\n✅ Analysis complete! Processed ${analyzed.length}/${total} reviews\n`);
 
   return analyzed;
 }

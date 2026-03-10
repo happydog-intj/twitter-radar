@@ -103,10 +103,10 @@ function generateEnglishReport(digest: AppStoreDigest): string {
   markdown += `- 😞 Negative: ${summary.sentimentBreakdown.negative} (${((summary.sentimentBreakdown.negative / summary.totalReviews) * 100).toFixed(1)}%)\n\n`;
 
   // Top topics
-  markdown += `### 🏷️ Top Discussion Topics\n\n`;
+  markdown += `### 🏷️ Top Discussion Topics / 热门讨论话题\n\n`;
   summary.topTopics.forEach(({ topic, count }, index) => {
     const percent = ((count / summary.totalReviews) * 100).toFixed(1);
-    markdown += `${index + 1}. **${formatTopic(topic)}**: ${count} mentions (${percent}%)\n`;
+    markdown += `${index + 1}. **${formatTopicBilingual(topic)}**: ${count} mentions (${percent}%)\n`;
   });
   markdown += `\n`;
 
@@ -297,6 +297,12 @@ function formatTopicZH(topic: string): string {
     other: '其他',
   };
   return mapping[topic] || topic;
+}
+
+function formatTopicBilingual(topic: string): string {
+  const en = formatTopic(topic);
+  const zh = formatTopicZH(topic);
+  return `${en} / ${zh}`;
 }
 
 export function saveAppStoreReport(
